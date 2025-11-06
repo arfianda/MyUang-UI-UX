@@ -22,4 +22,4 @@ NIM  : 312410377
 
 ## UX
 
-![](docs/splashscreenmyuang.gif)
+![DEMO](/docs/splashscreenmyuang.gif)
