@@ -21,4 +21,5 @@ NIM  : 312410377
 ![](docs/UI.png)
 
 ## UX
+
 ![](docs/splashscreenmyuang.gif)
