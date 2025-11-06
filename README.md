@@ -10,6 +10,10 @@ NIM  : 312410377
 
 ![](docs/Storyboard.png)
 
+## Wireframe
+
+![](docs/wireframe.png) 
+
 
 ## Mockup
 
